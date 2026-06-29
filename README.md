@@ -1,4 +1,5 @@
-# Changelog:
+# Anime Squadrons Mango
+## Changelog:
 - Release
 
 
