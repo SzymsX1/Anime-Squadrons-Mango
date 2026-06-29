@@ -4,7 +4,7 @@
 
 
 ## How To Download:
-- Click "Code <>"
+- Click "<> Code"
 - Click "Download ZIP"
 - Extract Folder from the ZIP
 
