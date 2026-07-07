@@ -9,16 +9,16 @@
 - Click "Download ZIP"
 - Extract Folder from the ZIP
 
-# Info:
+## Info:
 - dc ```szymsx```
 - I allow for distribution of my projects WHILE keeping MY credits as the owner
 
-## Requirements
+## Requirements:
 - Windows 10/11
 - [AutoHotkey v2+](https://www.autohotkey.com/download/ahk-v2.exe)
 
-## Important
+## Important:
 - Use my projects AT YOUR OWN RISK!
 
-## Update
+## Update:
 - 07.07.2026
