@@ -504,7 +504,7 @@ WebhookScreenshot(title, description) {
         myEmbed.setImage(attachment)
 
         currentTime := FormatTime(A_Now, "yyyy-MM-dd HH:mm:ss")
-        myEmbed.setFooter({ text: "SzymsX AS Macro " MacroVersion " | Run: " loopedTime " | Total: " totalTime " | " currentTime })
+        myEmbed.setFooter({ text: "SzymsX AS Macro " MacroVersion " | " | Total: " totalTime " | " currentTime })
 
         webhook.send({
             content: discordId ? "<@" discordId ">" : "",
