@@ -261,7 +261,7 @@ ChallengePlayFunc() {
                 if PixelSearch5(0xFFFFFF, 231, 202, 344, 213, 2) {
                     if PixelSearch5(0x29D379, 342, 209, 407, 221, 2) {
                         Sleep(500)
-                        WebhookScreenshot("Match Win", "")
+                        WinOrLossDetection()
                         Sleep(300)
                         Wiggle1(429, 425)
                         StatusText.Text := "> Daily Challenge Completed"
