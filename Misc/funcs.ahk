@@ -273,7 +273,8 @@ ChallengePlayFunc() {
         case "Katakara Bridge":
             StatusText.Text := "> Playing Katakara Bridge"
             Wiggle1(275, 316)
-            
+            Sleep(500)
+
             switch ChallengeDiffDDL.Text {
                 case "Hard": 
                     StatusText.Text := "> Playing Katakara Bridge Hard"
@@ -287,6 +288,7 @@ ChallengePlayFunc() {
         case "TheHeroHunter": 
             StatusText.Text := "> Playing TheHeroHunter"
             Wiggle1(267, 360)
+            Sleep(500)
 
             switch ChallengeDiffDDL.Text {
                 case "Hard": 
@@ -504,7 +506,7 @@ WebhookScreenshot(title, description) {
         myEmbed.setImage(attachment)
 
         currentTime := FormatTime(A_Now, "yyyy-MM-dd HH:mm:ss")
-        myEmbed.setFooter({ text: "SzymsX AS Macro " MacroVersion " | " | Total: " totalTime " | " currentTime })
+        myEmbed.setFooter({ text: "SzymsX AS Macro " MacroVersion " | Run: " loopedTime " | Total: " totalTime " | " currentTime })
 
         webhook.send({
             content: discordId ? "<@" discordId ">" : "",
