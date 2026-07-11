@@ -26,7 +26,7 @@
 - Windows Scale 100%
 - Orientation Landscape
 - Lowest Graphics
-- No Fulscreen roblox
+- No Fullscreen roblox
 
 ## Important:
 - Use my projects AT YOUR OWN RISK!
