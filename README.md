@@ -9,6 +9,12 @@
 - Click "Download ZIP"
 - Extract Folder from the ZIP
 
+## How To Use:
+- F1 to Start
+- F2 to Pause
+- F3 to Close/Stop
+- F4 to Restart Macro
+
 ## Info:
 - dc ```szymsx```
 - I allow for distribution of my projects WHILE keeping MY credits as the owner
