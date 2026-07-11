@@ -16,6 +16,9 @@
 ## Requirements:
 - Windows 10/11
 - [AutoHotkey v2+](https://www.autohotkey.com/download/ahk-v2.exe)
+- Display Resolution 1980 x 1080
+- Windows Scale 100%
+- Orientation Landscape
 
 ## Important:
 - Use my projects AT YOUR OWN RISK!
